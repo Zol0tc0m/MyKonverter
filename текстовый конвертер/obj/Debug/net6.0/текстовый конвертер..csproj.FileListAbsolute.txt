@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\bin\Debug\net6.0\текстовый конвертер..exe
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\bin\Debug\net6.0\текстовый конвертер..deps.json
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\bin\Debug\net6.0\текстовый конвертер..runtimeconfig.json
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\bin\Debug\net6.0\текстовый конвертер..dll
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\bin\Debug\net6.0\текстовый конвертер..pdb
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\obj\Debug\net6.0\текстовый конвертер..csproj.AssemblyReference.cache
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\obj\Debug\net6.0\текстовый конвертер..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\obj\Debug\net6.0\текстовый конвертер..AssemblyInfoInputs.cache
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\obj\Debug\net6.0\текстовый конвертер..AssemblyInfo.cs
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\obj\Debug\net6.0\текстовый конвертер..csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\obj\Debug\net6.0\текстовый конвертер..csproj.CopyComplete
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\obj\Debug\net6.0\текстовый конвертер..dll
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\obj\Debug\net6.0\refint\текстовый конвертер..dll
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\obj\Debug\net6.0\текстовый конвертер..pdb
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\obj\Debug\net6.0\текстовый конвертер..genruntimeconfig.cache
+C:\Users\User\source\repos\текстовый конвертер\текстовый конвертер\obj\Debug\net6.0\ref\текстовый конвертер..dll
